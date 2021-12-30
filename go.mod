@@ -8,7 +8,7 @@ require (
 	github.com/go-faster/errors v0.5.0
 	github.com/go-faster/jx v0.25.0
 	github.com/google/uuid v1.3.0
-	github.com/gotd/td v0.54.0-alpha.3
+	github.com/gotd/td v0.54.0-alpha.4
 	github.com/ogen-go/ogen v0.0.0-20211211145630-e16dcf3319e7
 	github.com/stretchr/testify v1.7.0
 	go.etcd.io/bbolt v1.3.6
@@ -30,7 +30,7 @@ require (
 	github.com/go-logr/stdr v1.2.0 // indirect
 	github.com/goccy/go-yaml v1.9.4 // indirect
 	github.com/gotd/ige v0.2.2 // indirect
-	github.com/gotd/neo v0.1.4 // indirect
+	github.com/gotd/neo v0.1.5 // indirect
 	github.com/json-iterator/go v1.1.12 // indirect
 	github.com/klauspost/compress v1.13.6 // indirect
 	github.com/mattn/go-colorable v0.1.11 // indirect
